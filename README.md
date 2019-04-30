@@ -7,7 +7,7 @@ Ovaj repozitorij kreiran je u svrhu sudjelovanja na studentskom natjecanju Mozga
   - [x] 1.1 Python bilježnica s eksplorativnom analizom
   - [x] 1.2 Projektni prijedlog (do 3,4 stranice A4)
   - [x] 1.3 Kratka prezentacija (3-4 slajda, trajanje 5 minuta)
-- [x] 2. Usmeno izlaganje prezentacija projektnih prijedloga (30.4.2019.)
+- [x] 2. Usmeno izlaganje prezentacija projektnih prijedloga (30.4.2019. u 9.30)
 - [ ] 3. Praktično ostvarenje projektnog zadatka (do 18.06.2019. u 23.59)
   - [ ] 3.1 Izvorni kod i dokumentacija programskog ostvarenja projekta
   - [ ] 3.2 Završno izvješće napisano u obliku istraživačkog rada
