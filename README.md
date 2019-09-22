@@ -11,6 +11,6 @@ Ovaj repozitorij kreiran je u svrhu sudjelovanja na studentskom natjecanju Mozga
 - [x] 3. Praktično ostvarenje projektnog zadatka (do 18.06.2019. u 23.59)
   - [x] 3.1 Izvorni kod i dokumentacija programskog ostvarenja projekta
   - [x] 3.2 Završno izvješće napisano u obliku istraživačkog rada
-- [ ] 4. Usmeno izlaganje cjelokupnog ostvarenja projektnog zadatka (27.6.2019. u 14.00)
-  - [ ] 4.1 Prezentacija (10-15 slajdova, 10 min + 5 min pitanja)
-  - [ ] 4.2 Demonstracija rada programskog ostvarenja (5 min)
+- [x] 4. Usmeno izlaganje cjelokupnog ostvarenja projektnog zadatka (27.6.2019. u 14.00)
+  - [x] 4.1 Prezentacija (10-15 slajdova, 10 min + 5 min pitanja)
+  - [x] 4.2 Demonstracija rada programskog ostvarenja (5 min)
